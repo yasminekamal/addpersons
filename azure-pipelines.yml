@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: 'yasminepcagent'
+  name: 'yasmineagentpc'
   vmImage: 'yasminepcagent'
 
 steps:
